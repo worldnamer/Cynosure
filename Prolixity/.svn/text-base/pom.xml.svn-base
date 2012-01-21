@@ -1,0 +1,63 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cynosure.prolixity</groupId>
+  <artifactId>Prolixity</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>Prolixity</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.7</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+    	<groupId>org.hsqldb</groupId>
+    	<artifactId>hsqldb</artifactId>
+    	<version>2.0.0</version>
+    	<type>jar</type>
+    </dependency>
+    <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-core</artifactId>
+        <version>3.5.6-Final</version>
+    </dependency>
+    <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-annotations</artifactId>
+        <version>3.5.6-Final</version>
+    </dependency>
+    <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-validator</artifactId>
+        <version>4.1.0.Final</version>
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-simple</artifactId>
+        <version>1.5.8</version>
+    </dependency>
+    <dependency>
+        <groupId>javassist</groupId>
+        <artifactId>javassist</artifactId>
+        <version>3.8.0.GA</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.lucene</groupId>
+    	<artifactId>lucene-analyzers</artifactId>
+    	<version>3.0.2</version>
+    	<type>jar</type>
+    	<scope>compile</scope>
+    </dependency>
+  </dependencies>
+    
+  <repositories>
+    <repository>
+      <id>JBoss Maven Respository</id>
+      <url>https://repository.jboss.org/nexus/content/groups/public/</url>
+    </repository>
+  </repositories>
+</project>

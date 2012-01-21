@@ -1,0 +1,55 @@
+{"title":"SAMARKAND","type":"CITY","options":[{"type":"only","value":"81"}]}
+{"title":"DAYBUL","type":"CITY","options":[{"type":"only","value":"81"}]}
+{"title":"P'AN P'AN","type":"CITY","options":[{"type":"only","value":"78"}]}
+{"title":"TIMBUKTU","type":"CITY","options":[{"type":"only","value":"77"}]}
+{"title":"LEON","type":"CITY","options":[{"type":"only","value":"74"}]}
+{"title":"TANA","type":"CITY","options":[{"type":"only","value":"70"}]}
+{"title":"BALTS","type":"CITY","options":[{"type":"only","value":"70"}]}
+{"title":"ZARANDJ","type":"CITY","options":[{"type":"only","value":"68"}]}
+{"title":"ROME","type":"CITY","options":[{"type":"only","value":"65"}]}
+{"title":"LHASA","type":"CITY","options":[{"type":"only","value":"65"}]}
+{"title":"KIEV","type":"CITY","options":[{"type":"only","value":"59"}]}
+{"title":"BULGARS","type":"CITY","options":[{"type":"only","value":"59"}]}
+{"title":"SERENDIB","type":"CITY","options":[{"type":"only","value":"54"}]}
+{"title":"BILMA","type":"CITY","options":[{"type":"only","value":"49"}]}
+{"title":"SU-CHOU","type":"CITY","options":[{"type":"only","value":"43"}]}
+{"title":"CORDOBA","type":"CITY","options":[{"type":"only","value":"37"}]}
+{"title":"HERAT","type":"CITY","options":[{"type":"only","value":"36"}]}
+{"title":"GAYA","type":"CITY","options":[{"type":"only","value":"29"}]}
+{"title":"ALEXANDRIA","type":"CITY","options":[{"type":"only","value":"22"}]}
+{"title":"TRIPOLI","type":"CITY","options":[{"type":"only","value":"15"}]}
+{"title":"BANTUS","type":"CITY","options":[{"type":"only","value":"8"}]}
+{"title":"ZAILA","type":"CITY","options":[{"type":"only","value":"1"}]}
+{"title":"ADRIANOPLE","type":"CITY","options":[{"type":"only","value":"1"}]}
+{"title":"THIEF","type":"CHARACTER","options":[{"type":"morning","value":"97"},{"type":"noon","value":"92"},{"type":"night","value":"106"}]}
+{"title":"HAG","type":"CHARACTER","options":[{"type":"morning","value":"86"},{"type":"noon","value":"91"},{"type":"night","value":"100"}]}
+{"title":"ENCHANTRESS","type":"CHARACTER","options":[{"type":"morning","value":"114"},{"type":"noon","value":"115"},{"type":"night","value":"117"}]}
+{"title":"PRINCESS","type":"CHARACTER","options":[{"type":"morning","value":"109"},{"type":"noon","value":"110"},{"type":"night","value":"113"}]}
+{"title":"'EFREET","type":"CHARACTER","options":[{"type":"morning","value":"94"},{"type":"noon","value":"118"},{"type":"night","value":"119"}]}
+{"title":"WIZARD","type":"CHARACTER","options":[{"type":"morning","value":"84"},{"type":"noon","value":"88"},{"type":"night","value":"95"}]}
+{"title":"SAGE","type":"CHARACTER","options":[{"type":"morning","value":"85"},{"type":"noon","value":"90"},{"type":"night","value":"99"}]}
+{"title":"'EFREETEH","type":"CHARACTER","options":[{"type":"morning","value":"116"},{"type":"noon","value":"120"},{"type":"night","value":"121"}]}
+{"title":"HUNCHBACK","type":"CHARACTER","options":[{"type":"morning","value":"86"},{"type":"noon","value":"91"},{"type":"night","value":"101"}]}
+{"title":"PRINCE","type":"CHARACTER","options":[{"type":"morning","value":"87"},{"type":"noon","value":"93"},{"type":"night","value":"102"}]}
+{"title":"NE'ER DO WELL","type":"CHARACTER","options":[{"type":"morning","value":"97"},{"type":"noon","value":"92"},{"type":"night","value":"108"}]}
+{"title":"SLAVE","type":"CHARACTER","options":[{"type":"morning","value":"97"},{"type":"noon","value":"92"},{"type":"night","value":"107"}]}
+{"title":"PROPHET","type":"CHARACTER","options":[{"type":"morning","value":"85"},{"type":"noon","value":"90"},{"type":"night","value":"98"}]}
+{"title":"BEGGAR","type":"CHARACTER","options":[{"type":"morning","value":"86"},{"type":"noon","value":"91"},{"type":"night","value":"105"}]}
+{"title":"SERPENT","type":"TERRAIN","options":[{"type":"mountains","value":"N"},{"type":"desert","value":"38"},{"type":"sea","value":"4"},{"type":"forest","value":"40"},{"type":"city","value":"41"},{"type":"island","value":"39"}]}
+{"title":"PALACE of 100 CLOSETS","type":"TERRAIN","options":[{"type":"mountains","value":"35"},{"type":"desert","value":"62"},{"type":"sea","value":"61"},{"type":"forest","value":"64"},{"type":"city","value":"N"},{"type":"island","value":"63"}]}
+{"title":"BARBER","type":"TERRAIN","options":[{"type":"mountains","value":"7"},{"type":"desert","value":"21"},{"type":"sea","value":"14"},{"type":"forest","value":"67"},{"type":"city","value":"N"},{"type":"island","value":"66"}]}
+{"title":"APE ISLAND","type":"TERRAIN","options":[{"type":"mountains","value":"52"},{"type":"desert","value":"19"},{"type":"sea","value":"53"},{"type":"forest","value":"55"},{"type":"city","value":"56"},{"type":"island","value":"N"}]}
+{"title":"VOLCANO","type":"TERRAIN","options":[{"type":"mountains","value":"72"},{"type":"desert","value":"3"},{"type":"sea","value":"73"},{"type":"forest","value":"17"},{"type":"city","value":"24"},{"type":"island","value":"N"}]}
+{"title":"DENDAN","type":"TERRAIN","options":[{"type":"mountains","value":"42"},{"type":"desert","value":"44"},{"type":"sea","value":"N"},{"type":"forest","value":"7"},{"type":"city","value":"46"},{"type":"island","value":"45"}]}
+{"title":"MAGNETIC MOUNTAIN","type":"TERRAIN","options":[{"type":"mountains","value":"N"},{"type":"desert","value":"3"},{"type":"sea","value":"2"},{"type":"forest","value":"5"},{"type":"city","value":"6"},{"type":"island","value":"4"}]}
+{"title":"ISLANDS of CAMPHOR","type":"TERRAIN","options":[{"type":"mountains","value":"19"},{"type":"desert","value":"21"},{"type":"sea","value":"20"},{"type":"forest","value":"23"},{"type":"city","value":"24"},{"type":"island","value":"N"}]}
+{"title":"CRYSTAL PALACE","type":"TERRAIN","options":[{"type":"mountains","value":"31"},{"type":"desert","value":"33"},{"type":"sea","value":"32"},{"type":"forest","value":"35"},{"type":"city","value":"N"},{"type":"island","value":"34"}]}
+{"title":"VALLEY of DOGS","type":"TERRAIN","options":[{"type":"mountains","value":"N"},{"type":"desert","value":"83"},{"type":"sea","value":"82"},{"type":"forest","value":"40"},{"type":"city","value":"46"},{"type":"island","value":"34"}]}
+{"title":"PEARL DIVING","type":"TERRAIN","options":[{"type":"mountains","value":"7"},{"type":"desert","value":"9"},{"type":"sea","value":"N"},{"type":"forest","value":"11"},{"type":"city","value":"12"},{"type":"island","value":"10"}]}
+{"title":"WARFLEET","type":"TERRAIN","options":[{"type":"mountains","value":"47"},{"type":"desert","value":"79"},{"type":"sea","value":"N"},{"type":"forest","value":"55"},{"type":"city","value":"56"},{"type":"island","value":"80"}]}
+{"title":"SEX-CHANGE SPRING","type":"TERRAIN","options":[{"type":"mountains","value":"75"},{"type":"desert","value":"N"},{"type":"sea","value":"76"},{"type":"forest","value":"11"},{"type":"city","value":"51"},{"type":"island","value":"4"}]}
+{"title":"PAVILION of the BLACK GIANT","type":"TERRAIN","options":[{"type":"mountains","value":"13"},{"type":"desert","value":"N"},{"type":"sea","value":"14"},{"type":"forest","value":"17"},{"type":"city","value":"18"},{"type":"island","value":"16"}]}
+{"title":"LION","type":"TERRAIN","options":[{"type":"mountains","value":"47"},{"type":"desert","value":"N"},{"type":"sea","value":"48"},{"type":"forest","value":"50"},{"type":"city","value":"51"},{"type":"island","value":"14"}]}
+{"title":"RHINOCEROS","type":"TERRAIN","options":[{"type":"mountains","value":"57"},{"type":"desert","value":"31"},{"type":"sea","value":"28"},{"type":"forest","value":"N"},{"type":"city","value":"60"},{"type":"island","value":"58"}]}
+{"title":"ELEPHANT'S GRAVEYARD","type":"TERRAIN","options":[{"type":"mountains","value":"25"},{"type":"desert","value":"27"},{"type":"sea","value":"26"},{"type":"forest","value":"N"},{"type":"city","value":"30"},{"type":"island","value":"28"}]}
+{"title":"ELEPHANT","type":"TERRAIN","options":[{"type":"mountains","value":"69"},{"type":"desert","value":"9"},{"type":"sea","value":"2"},{"type":"forest","value":"N"},{"type":"city","value":"71"},{"type":"island","value":"16"}]}

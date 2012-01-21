@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hypnosiaMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hypnosiaMap.xsd">
+	<grid imagePath="../images/vaultsSanctuary.jpg" cellSize="150"/>
+</hypnosiaMap>

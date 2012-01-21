@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2009 sp1 (http://www.altova.com) by John LeBoeuf-Little (n/a) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="hypnosiaMap">
+		<xs:annotation>
+			<xs:documentation>Root element for maps produced from HypnosiaProject</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="grid">
+					<xs:annotation>
+						<xs:documentation>Element containing information about map's grid structure</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:attribute name="imagePath" use="required">
+							<xs:annotation>
+								<xs:documentation>a path expressed relative to the XML file itself that stores the map background</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="cellSize" use="required">
+							<xs:annotation>
+								<xs:documentation>a positive integer that specifies how far apart grid lines are</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

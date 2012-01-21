@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/worldnamer/Cynosure/!svn/ver/60/Conundrum/src/test/java/cynosure/conundrum/cryptogram
+END
+PhraseParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/worldnamer/Cynosure/!svn/ver/38/Conundrum/src/test/java/cynosure/conundrum/cryptogram/PhraseParserTest.java
+END
+LetterHintsBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/worldnamer/Cynosure/!svn/ver/60/Conundrum/src/test/java/cynosure/conundrum/cryptogram/LetterHintsBaseTest.java
+END
+InMemoryWordsDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/worldnamer/Cynosure/!svn/ver/50/Conundrum/src/test/java/cynosure/conundrum/cryptogram/InMemoryWordsDAOTest.java
+END
+WordDTOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/worldnamer/Cynosure/!svn/ver/33/Conundrum/src/test/java/cynosure/conundrum/cryptogram/WordDTOTest.java
+END
+CryptogramWordTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/worldnamer/Cynosure/!svn/ver/44/Conundrum/src/test/java/cynosure/conundrum/cryptogram/CryptogramWordTest.java
+END
+WordCrossreferencerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/worldnamer/Cynosure/!svn/ver/60/Conundrum/src/test/java/cynosure/conundrum/cryptogram/WordCrossreferencerTest.java
+END
+CryptogramTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/worldnamer/Cynosure/!svn/ver/48/Conundrum/src/test/java/cynosure/conundrum/cryptogram/CryptogramTest.java
+END
+InMemoryWordsDAOFileLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/worldnamer/Cynosure/!svn/ver/34/Conundrum/src/test/java/cynosure/conundrum/cryptogram/InMemoryWordsDAOFileLoaderTest.java
+END
+SymbolizerBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/worldnamer/Cynosure/!svn/ver/60/Conundrum/src/test/java/cynosure/conundrum/cryptogram/SymbolizerBaseTest.java
+END

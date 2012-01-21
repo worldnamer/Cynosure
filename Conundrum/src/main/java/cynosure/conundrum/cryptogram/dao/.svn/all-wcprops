@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/worldnamer/Cynosure/!svn/ver/50/Conundrum/src/main/java/cynosure/conundrum/cryptogram/dao
+END
+InMemoryWordsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/worldnamer/Cynosure/!svn/ver/50/Conundrum/src/main/java/cynosure/conundrum/cryptogram/dao/InMemoryWordsDAO.java
+END
+WordDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/worldnamer/Cynosure/!svn/ver/33/Conundrum/src/main/java/cynosure/conundrum/cryptogram/dao/WordDTO.java
+END
+InMemoryWordsDAOFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/worldnamer/Cynosure/!svn/ver/34/Conundrum/src/main/java/cynosure/conundrum/cryptogram/dao/InMemoryWordsDAOFileLoader.java
+END

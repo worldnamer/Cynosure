@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	<constant name="struts.devMode" value="true" />
+    <constant name="struts.action.excludePattern" value="/rest-services/.*"/>
+	<package name="basicstruts2" extends="struts-default">
+		<action name="index" class="cynosure.arabian.action.IndexAction">
+			<result name="success">/index.jsp</result>
+		</action>
+		<action name="reactionMatrix">
+			<result name="success">/reactionMatrix.jsp</result>
+		</action>
+		<action name="encounterTable">
+			<result name="success">/encounterTable.jsp</result>
+		</action>
+		<action name="drawFromDeck" class="cynosure.arabian.action.DeckAwareAction">
+			<result name="success">/drawFromDeck.jsp</result>
+		</action>
+	</package>
+</struts>
